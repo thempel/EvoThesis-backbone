@@ -1,0 +1,3 @@
+[submodule "evothesis"]
+	path = evothesis
+	url = git@github.com:thempel/EvoThesis.git
